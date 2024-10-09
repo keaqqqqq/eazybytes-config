@@ -2,7 +2,7 @@ build:
   version: "10.0"
 
 cards:
-  message: "Welcome to EazyBank cards related notgood APIs "
+  message: "Welcome to EazyBank cards related notreallygood APIs "
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@eazybank.com"
